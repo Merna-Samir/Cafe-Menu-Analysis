@@ -27,8 +27,8 @@ contains informaon on sales, prices, and other relevant features of the cafe's m
 
 . Help the cafe owners make informed decisions regarding their menu items and prices.
 
-#Conclusion
+# Conclusion
 
 In conclusion, this project aims to help cafe owners make informed decisions regarding their
-menu items and prices. By analyzing the data and drawing insights, we can iden􀆟fy trends
-and pa􀆩erns that can be used to op􀆟mize the cafe's menu and pricing strategy.
+menu items and prices. By analyzing the data and drawing insights, we can identify trends
+and patterns that can be used to optimize the cafe's menu and pricing strategy.
