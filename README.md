@@ -1,6 +1,6 @@
 # Cafe Menu Analysis
 
-# Descripon
+## Descripon
 
 Deciding the items and their prices on a menu card is not an easy task for cafe owners. They
 have to constantly analyze their customers’ choices to set the opmum prices of their food
@@ -13,11 +13,11 @@ weekends, and more such trends. We will draw more insights by visualizing the da
 through the seaborn library of the Python Programming Language. Another metric that we
 will evaluate for this project is the Price Elascity of all cafe items.
 
-# The dataset 
+## The dataset 
 
 contains informaon on sales, prices, and other relevant features of the cafe's menu items.
 
-# Goals
+## Goals
 
 . Analyze the data to identify fundamental economic trends in the dataset
 
@@ -27,7 +27,7 @@ contains informaon on sales, prices, and other relevant features of the cafe's m
 
 . Help the cafe owners make informed decisions regarding their menu items and prices.
 
-# Conclusion
+## Conclusion
 
 In conclusion, this project aims to help cafe owners make informed decisions regarding their
 menu items and prices. By analyzing the data and drawing insights, we can identify trends
